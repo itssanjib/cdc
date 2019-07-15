@@ -9,4 +9,5 @@ Consumer contract project is to use the stub runner and access the API's from th
 
 ### Important Links
 https://spring.io/guides/gs/contract-rest/
+
 https://docs.pact.io/
